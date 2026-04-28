@@ -1,0 +1,2 @@
+Статус удаления: 202
+Тело ответа: {"success":true,"message":"User successfully removed"}
